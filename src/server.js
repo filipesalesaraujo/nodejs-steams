@@ -18,7 +18,7 @@ function* run() {
     }
 }
 
-async function handler(requeste, response) {
+function handler(requeste, response) {
     const readable = Readable({
         read() {
             for (const data of run()) {

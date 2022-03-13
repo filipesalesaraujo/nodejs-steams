@@ -22,5 +22,8 @@
   "homepage": "https://github.com/filipesalesaraujo/nodejs-steams#readme",
   "devDependencies": {
     "nodemon": "2"
+  },
+  "dependencies": {
+    "axios": "^0.26.1"
   }
 }
