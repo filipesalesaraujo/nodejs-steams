@@ -1,0 +1,1 @@
+Projeto com objetivo de estudo sobre Streams do Node.js.
